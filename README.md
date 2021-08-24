@@ -1,6 +1,6 @@
 # The Effect of Hospital Capacity by State on Covid-19 Fatality Rates
 
-#Abstract
+Abstract
 
 For this study, I am analyzing/focusing on the relation between hospital capacity/utilization and 
 Covid-19 fatality rates. I used a log-log regression model/approach to examine this relationship
